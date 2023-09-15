@@ -1,6 +1,6 @@
 module.exports = {
   app: {
-    name: 'ShopperStop Ecommerce',
+    name: 'MERN store Ecommerce',
     apiURL: `${process.env.BASE_API_URL}`,
     clientURL: process.env.CLIENT_URL
   },

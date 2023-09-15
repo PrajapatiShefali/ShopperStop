@@ -1,7 +1,7 @@
 {
-  "name": "ShopperStop-ecommerce",
+  "name": "MERN store-ecommerce",
   "version": "1.0.0",
-  "description": "ShopperStop Ecommerce",
+  "description": "MERN store Ecommerce",
   "main": "server/index.js",
   "scripts": {
     "dev": "npm-run-all --parallel dev:*",

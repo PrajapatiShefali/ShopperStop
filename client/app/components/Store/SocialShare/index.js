@@ -17,7 +17,7 @@ const SocialShare = props => {
   const { product } = props;
 
   const shareMsg = `I ♥ ${product.name
-    } product on ShopperStop Store!  Here's the link, ${window.location.protocol !== 'https' ? 'http' : 'https'
+    } product on MERN store Store!  Here's the link, ${window.location.protocol !== 'https' ? 'http' : 'https'
     }://${window.location.host}/product/${product.slug}`;
 
   return (

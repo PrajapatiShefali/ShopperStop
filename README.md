@@ -1,8 +1,8 @@
-# ShopperStop Ecommerce
+# MERN store Ecommerce
 
 ## Description
 
-An ecommerce store built with ShopperStop stack. This ecommerce store enable three main different flows or implementations:
+An ecommerce store built with MERN store stack. This ecommerce store enable three main different flows or implementations:
 
 1. Buyers browse the store categories, products and brands
 2. Sellers or Merchants manage their own brand component
@@ -33,7 +33,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 
 
 
-See admin dashboard [demo](https://ShopperStopstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
+See admin dashboard [demo](https://MERN storestore-bucket.s3.us-east-2.amazonaws.com/admin.mp4)
 
 ## Install
 
